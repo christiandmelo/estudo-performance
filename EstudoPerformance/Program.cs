@@ -95,6 +95,9 @@ class Program
         "   Ou seja, acesso direto, praticamente instantâneo, mesmo com milhões de registros.\n\n" +
         " - Por isso no teste o Dictionary é mais rápido que List/Where/Find."
     );
+
+    Console.WriteLine("\nPressione ENTER para sair...");
+    Console.ReadLine();
   }
 }
 
